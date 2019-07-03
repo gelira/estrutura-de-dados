@@ -1,0 +1,1 @@
+Essas práticas foram implementadas com listas não encadeadas, baseadas em vetor

@@ -1,0 +1,1 @@
+Essas práticas foram implementadas utilizando listas encadeadas.
